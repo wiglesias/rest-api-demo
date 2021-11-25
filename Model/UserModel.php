@@ -1,6 +1,6 @@
 <?php
 
-//declare(strict_types=1);
+require_once PROJECT_ROOT_PATH . "/Model/Database.php";
 
 class UserModel extends Database
 {
